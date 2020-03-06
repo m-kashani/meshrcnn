@@ -20,7 +20,7 @@ You will first need to install those in order to be able to run Mesh R-CNN.
 To install
 ```
 git clone https://github.com/facebookresearch/meshrcnn.git
-cd meshrcnn && pip install -e .
+pip install -e meshrcnn
 ```
 
 ## Demo
